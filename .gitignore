@@ -1,0 +1,14 @@
+/coverage/
+/pkg/
+/tmp/
+/vendor/
+*.gem
+result
+result-*
+.bundle/
+.direnv/
+*.swp
+*.swo
+.DS_Store
+Gemfile.lock
+gemset.nix
